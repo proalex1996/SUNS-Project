@@ -1,0 +1,9 @@
+#include "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug-uat.xcconfig"
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main-uat.dart
+// bundle_suffix used in the bundle id of the app
+BUNDLE_SUFFIX=.uat
+// the name displayed below the app icon on the home screen
+APP_DISPLAY_NAME=Gcare UAT
+APP_URLSchemes_Firebase=com.googleusercontent.apps.1026952692802-nc59a4rckognh27gk1mu3gqnpl1c415v

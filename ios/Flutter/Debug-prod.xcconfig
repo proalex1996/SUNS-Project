@@ -1,0 +1,9 @@
+#include "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug-prod.xcconfig"
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main-prod.dart
+// bundle_suffix used in the bundle id of the app
+//BUNDLE_SUFFIX=
+// the name displayed below the app icon on the home screen
+APP_DISPLAY_NAME=Gcare
+APP_URLSchemes_Firebase=com.googleusercontent.apps.152143122101-0ql154tbmhqevfn1eatbnhr953121mrc

@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Dev",
+            "request": "launch",
+            "program": "lib/main-dev.dart",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "dev"
+            ]
+        },
+        {
+            "name": "QC",
+            "request": "launch",
+            "program": "lib/main-qc.dart",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "qc"
+            ]
+        },
+        {
+            "name": "UAT",
+            "request": "launch",
+            "program": "lib/main-uat.dart",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "uat"
+            ]
+        },
+        {
+            "name": "Prod",
+            "request": "launch",
+            "program": "lib/main-prod.dart",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "prod"
+            ]
+        }
+    ]
+}

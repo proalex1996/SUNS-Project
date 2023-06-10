@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "152143122101",
+    "project_id": "gcare-a5de6",
+    "storage_bucket": "gcare-a5de6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152143122101:android:b7de07eba9bfbf9b5238fc",
+        "android_client_info": {
+          "package_name": "vn.com.suns.gcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152143122101-i76gff5nfo6dj02d4b46s8lpokoq5tjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.suns.gcare",
+            "certificate_hash": "0cf2eeb9d6fa08051d69ef09f1e77f72f88039b2"
+          }
+        },
+        {
+          "client_id": "152143122101-kkmcgfolcvcgpdv5ianftuv3n91mevlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.suns.gcare",
+            "certificate_hash": "7935a47355f3acfc05d42c7b475a5361e98e97c0"
+          }
+        },
+        {
+          "client_id": "152143122101-nelegl88h623ikg99s46d86sg4hbmu86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.suns.gcare",
+            "certificate_hash": "3bfb18efe9351cc53e998b09b665edb3f8dba7ee"
+          }
+        },
+        {
+          "client_id": "152143122101-37ke17o59jfpdo529vc9hh957ricf69i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDlpapxqwk_C7AAOUEmOjw9HJqDbk-Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152143122101-37ke17o59jfpdo529vc9hh957ricf69i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152143122101-27k06veluetqnmpiblsn40a5uf5ck9vp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.com.suns.gcare.uat",
+                "app_store_id": "1585959760"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152143122101:android:a97671f3264138bc5238fc",
+        "android_client_info": {
+          "package_name": "vn.com.suns.gcare.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152143122101-h8r848o8lrgt3mm0jb1coitd3bdup5qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.suns.gcare.uat",
+            "certificate_hash": "7935a47355f3acfc05d42c7b475a5361e98e97c0"
+          }
+        },
+        {
+          "client_id": "152143122101-37ke17o59jfpdo529vc9hh957ricf69i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDlpapxqwk_C7AAOUEmOjw9HJqDbk-Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152143122101-37ke17o59jfpdo529vc9hh957ricf69i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152143122101-27k06veluetqnmpiblsn40a5uf5ck9vp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.com.suns.gcare.uat",
+                "app_store_id": "1585959760"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

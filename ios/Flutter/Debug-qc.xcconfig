@@ -1,0 +1,8 @@
+#include "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug-qc.xcconfig"
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main-qc.dart
+// bundle_suffix used in the bundle id of the app
+BUNDLE_SUFFIX=.qc
+// the name displayed below the app icon on the home screen
+APP_DISPLAY_NAME=Gcare QC

@@ -1,0 +1,1074 @@
+{
+    "login": "Login",
+    "@login": {
+        "description": "Login screen"
+    },
+    "phoneNumber": "Phone number",
+    "@phoneNumber": {
+        "description": "Login screen"
+    },
+    "phoneNumberError": "Please enter the correct phone number",
+    "@phoneNumberError": {
+        "description": "Login screen"
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Login screen"
+    },
+    "passwordError": "Please enter the correct password",
+    "@passwordError": {
+        "description": "Login screen"
+    },
+    "forgotPass": "Forgot password",
+    "@forgotPass": {
+        "description": "Login screen"
+    },
+    "noAccount": "No account",
+    "@noAccount": {
+        "description": "Login screen"
+    },
+    "registerNow": "Register Now",
+    "@registerNow": {
+        "description": "Login screen"
+    },
+    "hasAccount": "You had account",
+    "@hasAccount": {
+        "description": "Login screen"
+    },
+    "loginNow": "Login now",
+    "@loginNow": {
+        "description": "Login screen"
+    },
+    "callHotline": "Call hotline",
+    "@callHotline": {
+        "description": "Login screen"
+    },
+    "recoveryPass": "Password recovery",
+    "@recoveryPass": {
+        "description": "Forgot pass screen"
+    },
+    "descript_recoveryPass": "Please re-enter the phone number you registered your account with",
+    "@descript_recoveryPass": {
+        "description": "Forgot pass screen"
+    },
+    "isPhoneEmpty": "Phone number cannot be left blank",
+    "@isPhoneEmpty": {
+        "description": "Forgot pass screen"
+    },
+    "isPhoneAlready": "Phone number already in use",
+    "@isPhoneAlready": {
+        "description": "Register screen"
+    },
+    "register": "Register an account",
+    "@register": {
+        "description": "Register screen"
+    },
+    "reEnterPass": "Re-enter the password",
+    "@reEnterPass": {
+        "description": "Register screen"
+    },
+    "term": "I understand and agree to the terms",
+    "@term": {
+        "description": "Register screen"
+    },
+    "passValidate1": "Password must contain at least 8 characters (including uppercase, lowercase, numbers and special characters).",
+    "@passValidate1": {
+        "description": "Register screen"
+    },
+    "passValidate2": "Password 8 - 15 characters with 1 uppercase character",
+    "@passValidate2": {
+        "description": "Register screen"
+    },
+    "skip": "Skip",
+    "@skip": {
+        "description": "Start screen"
+    },
+    "titleStart1": "HOME TESTING",
+    "@titleStart1": {
+        "description": "Start screen"
+    },
+    "titleStart2": "BOOK YOUR SCHEDULE ONLINE",
+    "@titleStart2": {
+        "description": "Start screen"
+    },
+    "titleStart3": "HEALTH CONSULTATION",
+    "@titleStart3": {
+        "description": "Start screen"
+    },
+    "descriptStart1": "Samples are taken at home. Provides fast and accurate results.",
+    "@descriptStart1": {
+        "description": "Start screen"
+    },
+    "descriptStart2": "Make an appointment and choose a clinic completely on your own. No waiting time.",
+    "@descriptStart2": {
+        "description": "Start screen"
+    },
+    "descriptStart3": "Chat and receive health advice from a team of reputable and experienced doctors.",
+    "@descriptStart3": {
+        "description": "Start screen"
+    },
+    "enterOTP": "Enter OTP",
+    "@enterOTP": {
+        "description": "OTP screen"
+    },
+    "sentOTP": "Enter the confirmation code sent to",
+    "@sentOTP": {
+        "description": "OTP screen"
+    },
+    "getOTP": "Get OTP back later ",
+    "@getOTP": {
+        "description": "OTP screen"
+    },
+    "tryOTPAgain": "Haven't received the code? Please try again later",
+    "@tryOTPAgain": {
+        "description": "OTP screen"
+    },
+    "seconds": " seconds",
+    "@seconds": {
+        "description": "OTP screen"
+    },
+    "notReceiveOTP": "I did not receive the code",
+    "@notReceiveOTP": {
+        "description": "OTP screen"
+    },
+    "resendOTP": "Resend OTP",
+    "@resendOTP": {
+        "description": "OTP screen"
+    },
+    "resendOTPSnackbar": "Wrong OTP, please re-enter!",
+    "@resendOTPSnackbar": {
+        "description": "OTP screen"
+    },
+    "sendOTPSuccessfulSnackbar": "Verification code sent successfully",
+    "@sendOTPSuccessfulSnackbar": {
+        "description": "OTP screen"
+    },
+    "sendOTPErrorSnackbar": "Unable to send verification code",
+    "@sendOTPErrorSnackbar": {
+        "description": "OTP screen"
+    },
+    "expiredOTPSnackbar": "The verification code is incorrect or expired",
+    "@expiredOTPSnackbar": {
+        "description": "OTP screen"
+    },
+    "search": "Service Search",
+    "@search": {
+        "description": "Home screen"
+    },
+    "yourAppointment": "Your appointment",
+    "@yourAppointment": {
+        "description": "Home screen"
+    },
+    "advise": "ADVISE",
+    "@advise": {
+        "description": "Home screen"
+    },
+    "examinationHome": "EXAMINATION",
+    "@examinationHome": {
+        "description": "Product screen"
+    },
+    "service": "SERVICE",
+    "@service": {
+        "description": "Home screen"
+    },
+    "medicine": "MEDICINE",
+    "@medicine": {
+        "description": "Home screen"
+    },
+    "notAppointment": "You do not currently have an appointment with your doctor",
+    "@notAppointment": {
+        "description": "Home screen"
+    },
+    "featuredExamination": "Featured examination package",
+    "@featuredExamination": {
+        "description": "Home screen"
+    },
+    "viewAll": "View all",
+    "@viewAll": {
+        "description": "Home screen"
+    },
+    "youKnow": "Do you know ?",
+    "@youKnow": {
+        "description": "Home screen"
+    },
+    "promotion": "Promotion Information",
+    "@promotion": {
+        "description": "Home screen"
+    },
+    "examinationInfo": "Examination Information",
+    "@examinationInfo": {
+        "description": "Home screen"
+    },
+    "test": "Test",
+    "@test": {
+        "description": "Product screen"
+    },
+    "examination": "Examination",
+    "@examination": {
+        "description": "Product screen"
+    },
+    "price": "Service prices",
+    "@price": {
+        "description": "Product screen"
+    },
+    "male": "Male",
+    "@male": {
+        "description": "Product screen"
+    },
+    "female": "Female",
+    "@female": {
+        "description": "Product screen"
+    },
+    "from": "From",
+    "@from": {
+        "description": "Product screen"
+    },
+    "both": "Everybody",
+    "@both": {
+        "description": "Product screen"
+    },
+    "yearOld": "Old",
+    "@yearOld": {
+        "description": "Product screen"
+    },
+    "yearUp": "years old and up ",
+    "@yearUp": {
+        "description": "Product screen"
+    },
+    "down": "years old and down ",
+    "@down": {
+        "description": "Product screen"
+    },
+    "allAge": "All ages",
+    "@allAge": {
+        "description": "Product screen"
+    },
+    "book": "Make an appointment",
+    "@book": {
+        "description": "Product screen"
+    },
+    "servicePrice": "Service Price",
+    "@servicePrice": {
+        "description": "Product detail screen"
+    },
+    "executionBranch": "Execution branch",
+    "@executionBranch": {
+        "description": "Product detail screen"
+    },
+    "whyShouldOrder": "Why should you order this examination and test package?",
+    "@whyShouldOrder": {
+        "description": "Product detail screen"
+    },
+    "procedures": "Examination and testing procedures?",
+    "@procedures": {
+        "description": "Product detail screen"
+    },
+    "testCategory": "Category of test",
+    "@testCategory": {
+        "description": "Product detail screen"
+    },
+    "otherCategory": "Category of other",
+    "@otherCategory": {
+        "description": "Product detail screen"
+    },
+    "examinationCategory": "Category of examination",
+    "@examinationCategory": {
+        "description": "Product detail screen"
+    },
+    "noteThings": "Things need to notice",
+    "@noteThings": {
+        "description": "Product detail screen"
+    },
+    "forTest": "For test",
+    "@forTest": {
+        "description": "Product detail screen"
+    },
+    "scheduleAppointment": "Schedule Appointment",
+    "@scheduleAppointment": {
+        "description": ""
+    },
+    "waitingConfirm": "Waiting for confirmation",
+    "@waitingConfirm": {
+        "description": ""
+    },
+    "confirmed": "Confirmed",
+    "@confirmed": {
+        "description": ""
+    },
+    "cancel": "Canceled",
+    "@cancel": {
+        "description": ""
+    },
+    "patient": "Patient",
+    "@patient": {
+        "description": ""
+    },
+    "doctor": "Doctor",
+    "@doctor": {
+        "description": ""
+    },
+    "popularServiceList": "List of all featured packages",
+    "@popularServiceList": {
+        "description": ""
+    },
+    "examTime": "Exam time",
+    "@examTime": {
+        "description": ""
+    },
+    "hello": "Hello",
+    "@hello": {
+        "description": ""
+    },
+    "viewSchedule": "View appointment schedule",
+    "@viewSchedule": {
+        "description": ""
+    },
+    "selectDate": "Select date",
+    "@selectDate": {
+        "description": ""
+    },
+    "selectDoctor": "SELECT A DOCTOR",
+    "@selectDoctor": {
+        "description": ""
+    },
+    "selectTime": "Select a time",
+    "@selectTime": {
+        "description": ""
+    },
+    "updateInformation": "Update personal information",
+    "@updateInformation": {
+        "description": ""
+    },
+    "name": "First and Last Name",
+    "@name": {
+        "description": ""
+    },
+    "address": "Address",
+    "@address": {
+        "description": ""
+    },
+    "specificAddress": "Specific address",
+    "@specificAddress": {
+        "description": ""
+    },
+    "province": "Province/City",
+    "@province": {
+        "description": ""
+    },
+    "district": "County / District",
+    "@district": {
+        "description": ""
+    },
+    "ward": "Ward / Commune",
+    "@ward": {
+        "description": ""
+    },
+    "dob": "Date of birth",
+    "@dob": {
+        "description": ""
+    },
+    "gender": "Gender",
+    "@gender": {
+        "description": ""
+    },
+    "update": "Update",
+    "@update": {
+        "description": ""
+    },
+    "addProfile": "Add Profile",
+    "@addProfile": {
+        "description": ""
+    },
+    "selectRelationship": "Select relationship",
+    "@selectRelationship": {
+        "description": ""
+    },
+    "symptoms": "Disease History - Symptoms",
+    "@symptoms": {
+        "description": ""
+    },
+    "uploadRelatedImages": "Upload related images",
+    "@uploadRelatedImages": {
+        "description": ""
+    },
+    "patientInformation": "Patient Information",
+    "@patientInformation": {
+        "description": ""
+    },
+    "checkOtherInformation": "Check other information",
+    "@checkOtherInformation": {
+        "description": ""
+    },
+    "confirmInformation": "Confirm information",
+    "@confirmInformation": {
+        "description": ""
+    },
+    "paymentSlip": "Payment slip",
+    "@paymentSlip": {
+        "description": ""
+    },
+    "enterOldPass": "Enter old password",
+    "@enterOldPass": {
+        "description": ""
+    },
+    "enterNewPass": "Enter new password",
+    "@enterNewPass": {
+        "description": ""
+    },
+    "reEnterNewPass": "Re-Enter new password",
+    "@reEnterNewPass": {
+        "description": ""
+    },
+    "information": "Information",
+    "@information": {
+        "description": ""
+    },
+    "vote": "vote",
+    "@vote": {
+        "description": ""
+    },
+    "payment": "Payment",
+    "@payment": {
+        "description": ""
+    },
+    "temporary": "Temporary",
+    "@temporary": {
+        "description": ""
+    },
+    "totalPayment": "Total Payment",
+    "@totalPayment": {
+        "description": ""
+    },
+    "paymentMethod": "Payment method",
+    "@paymentMethod": {
+        "description": ""
+    },
+    "confirm": "Confirm",
+    "@confirm": {
+        "description": ""
+    },
+    "paymentCode": "Your payment invoice code is: ",
+    "@paymentCode": {
+        "description": ""
+    },
+    "thank": "Thank you for using Gcare's service",
+    "@thank": {
+        "description": ""
+    },
+    "returnSchedule": "Return to appointment schedule",
+    "@returnSchedule": {
+        "description": ""
+    },
+    "dateOfExamination": "Date of examination",
+    "@dateOfExamination": {
+        "description": ""
+    },
+    "department": "Department",
+    "@department": {
+        "description": ""
+    },
+    "serviceList": "List of services",
+    "@serviceList": {
+        "description": ""
+    },
+    "changeAppointment": "Change appointment",
+    "@changeAppointment": {
+        "description": ""
+    },
+    "cancelAppointment": "Cancel appointment",
+    "@cancelAppointment": {
+        "description": ""
+    },
+    "profile": "PROFILE",
+    "@profile": {
+        "description": ""
+    },
+    "relatedDetail": "RELATED DETAILS",
+    "@relatedDetail": {
+        "description": ""
+    },
+    "totalCostExamination": "Total cost of examination",
+    "@totalCostExamination": {
+        "description": ""
+    },
+    "relationship": "Relationship: ",
+    "@relationship": {
+        "description": ""
+    },
+    "profileID": "Profile ID: ",
+    "@profileID": {
+        "description": ""
+    },
+    "health": "Health",
+    "@health": {
+        "description": ""
+    },
+    "examHistory": "Exam history",
+    "@examHistory": {
+        "description": ""
+    },
+    "examType": "Exam Type",
+    "@examType": {
+        "description": ""
+    },
+    "costExamination": "Cost of examination",
+    "@costExamination": {
+        "description": ""
+    },
+    "code": "Code",
+    "@code": {
+        "description": ""
+    },
+    "bodyIndex": "Body Index",
+    "@bodyIndex": {
+        "description": ""
+    },
+    "diagnosis": "Diagnosis, examination results",
+    "@diagnosis": {
+        "description": ""
+    },
+    "rateComment": "Rate and comment",
+    "@rateComment": {
+        "description": ""
+    },
+    "submitComment": "Submit a comment",
+    "@submitComment": {
+        "description": ""
+    },
+    "scan": "Scan",
+    "@scan": {
+        "description": ""
+    },
+    "result": "Result",
+    "@result": {
+        "description": ""
+    },
+    "note": "Notes",
+    "@note": {
+        "description": ""
+    },
+    "viewPrescription": "View prescription",
+    "@viewPrescription": {
+        "description": ""
+    },
+    "resultImage": "Result Image",
+    "@resultImage": {
+        "description": ""
+    },
+    "height": "Height",
+    "@height": {
+        "description": ""
+    },
+    "weight": "Weight",
+    "@weight": {
+        "description": ""
+    },
+    "bloodType": "Blood Type",
+    "@bloodType": {
+        "description": ""
+    },
+    "vitalityIndex": "Vitality Index",
+    "@vitalityIndex": {
+        "description": ""
+    },
+    "heartRate": "Heart Rate",
+    "@heartRate": {
+        "description": ""
+    },
+    "bloodPressure": "Blood pressure",
+    "@bloodPressure": {
+        "description": ""
+    },
+    "bodyTemperature": "Body temperature",
+    "@bodyTemperature": {
+        "description": ""
+    },
+    "breathe": "Breathe",
+    "@breathe": {
+        "description": ""
+    },
+    "general": "General",
+    "@general": {
+        "description": ""
+    },
+    "noticeDetails": "Notice details",
+    "@noticeDetails": {
+        "description": ""
+    },
+    "confirmBooking": "Gcare confirms your appointment booking code ",
+    "@confirmBooking": {
+        "description": ""
+    },
+    "changePassword": "Change Password",
+    "@changePassword": {
+        "description": ""
+    },
+    "newLowwer": "new",
+    "@newLowwer": {
+        "description": ""
+    },
+    "favoritePosts": "Favorite Posts",
+    "@favoritePosts": {
+        "description": ""
+    },
+    "myOrders": "My Orders",
+    "@myOrders": {
+        "description": ""
+    },
+    "totalAmount": "Total amount",
+    "@totalAmount": {
+        "description": ""
+    },
+    "personalInformation": "Personal Information",
+    "@personalInformation": {
+        "description": ""
+    },
+    "favoriteNew": "Favorite News",
+    "@favoriteNew": {
+        "description": ""
+    },
+    "listRecords": "List of records",
+    "@listRecords": {
+        "description": ""
+    },
+    "logout": "Logout",
+    "@logout": {
+        "description": ""
+    },
+    "myInfo": "My Info",
+    "@myInfo": {
+        "description": ""
+    },
+    "mine": "mine",
+    "@mine": {
+        "description": ""
+    },
+    "newsUpper": "GCARE NEWS",
+    "@newsUpper": {
+        "description": ""
+    },
+    "newsLowwer": "News",
+    "@newsLowwer": {
+        "description": ""
+    },
+    "promotionService": "Service / Promotion",
+    "@promotionService": {
+        "description": ""
+    },
+    "relatedArticles": "Related Articles",
+    "@relatedArticles": {
+        "description": ""
+    },
+    "pharmacy": "Pharmacy",
+    "@pharmacy": {
+        "description": ""
+    },
+    "findDrug": "Find a drug",
+    "@findDrug": {
+        "description": ""
+    },
+    "findTheDrug": "Find the drug",
+    "@findTheDrug": {
+        "description": ""
+    },
+    "pickToBuy": "Pick to buy",
+    "@pickToBuy": {
+        "description": ""
+    },
+    "description": "Description",
+    "@description": {
+        "description": ""
+    },
+    "drugName": "Drug name",
+    "@drugName": {
+        "description": ""
+    },
+    "cart": "Cart",
+    "@cart": {
+        "description": ""
+    },
+    "addressForReceiving": "Address for receiving drugs",
+    "@addressForReceiving": {
+        "description": ""
+    },
+    "contactPhone": "Contact phone",
+    "@contactPhone": {
+        "description": ""
+    },
+    "done": "Done",
+    "@done": {
+        "description": ""
+    },
+    "orderSuccessful": "Order successful",
+    "@orderSuccessful": {
+        "description": ""
+    },
+    "viewAppointment": "View appointment",
+    "@viewAppointment": {
+        "description": ""
+    },
+    "notData": "No data",
+    "@notData": {
+        "description": ""
+    },
+    "notEnter": "Not enter ",
+    "@notEnter": {
+        "description": ""
+    },
+    "pleaseEnter": "Please enter ",
+    "@pleaseEnter": {
+        "description": ""
+    },
+    "invalid": " invalid",
+    "@invalid": {
+        "description": ""
+    },
+    "servicePackageInvalid": " The package is not suitable for you, please order another package",
+    "@servicePackageInvalid": {
+        "description": ""
+    },
+    "notEmpty": "Not be empty",
+    "@notEmpty": {
+        "description": ""
+    },
+    "passDuplicate": "The new password cannot be the same as the current password.",
+    "@passDuplicate": {
+        "description": ""
+    },
+    "notLikeNewPass": "The new password does not match, please try again.",
+    "@notLikeNewPass": {
+        "description": ""
+    },
+    "notification": "Notify",
+    "@notification": {
+        "description": ""
+    },
+    "sureLogout": "Are you sure you want to log out?",
+    "@sureLogout": {
+        "description": ""
+    },
+    "accept": "Agree",
+    "@accept": {
+        "description": ""
+    },
+    "close": "Close",
+    "@close": {
+        "description": ""
+    },
+    "timeUp": "Out of business hours for today, please book the next day.",
+    "@timeUp": {
+        "description": ""
+    },
+    "specialist": "Specialist",
+    "@specialist": {
+        "description": ""
+    },
+    "center": "Gcare Center",
+    "@center": {
+        "description": ""
+    },
+    "notUpdate": "not update",
+    "@notUpdate": {
+        "description": ""
+    },
+    "mustUpdate": "You need to update your information to have your own profile.",
+    "@mustUpdate": {
+        "description": ""
+    },
+    "createProfile": "Create more profiles",
+    "@createProfile": {
+        "description": ""
+    },
+    "selectProfile": "Select Profile",
+    "@selectProfile": {
+        "description": ""
+    },
+    "continues": "Continues",
+    "@continues": {
+        "description": ""
+    },
+    "checkOut": "Check out the other information",
+    "@checkOut": {
+        "description": ""
+    },
+    "delete": "Delete",
+    "@delete": {
+        "description": ""
+    },
+    "deleteQuestion": "Do you want to delete?",
+    "@deleteQuestion": {
+        "description": ""
+    },
+    "relativeName": "Relative's name",
+    "@relativeName": {
+        "description": ""
+    },
+    "relativeNote": "Note: Need to enter 2 or more characters to search.",
+    "@relativeNote": {
+        "description": ""
+    },
+    "yourQr": "Your QR code",
+    "@yourQr": {
+        "description": ""
+    },
+    "allowCamera": "Allow Gcare to use the camera",
+    "@allowCamera": {
+        "description": ""
+    },
+    "explainAlowCamera": "This app needs camera access to take photos and upload user medical records",
+    "@explainAlowCamera": {
+        "description": ""
+    },
+    "refuse": "Refuse",
+    "@refuse": {
+        "description": ""
+    },
+    "allow": "Allow",
+    "@allow": {
+        "description": ""
+    },
+    "allowMemory": "Allow Gcare to use phone memory",
+    "@allowMemory": {
+        "description": ""
+    },
+    "explainAllowCamera": "You can then share the photo gallery, as well as upload the user's medical record photo ",
+    "@explainAllowCamera": {
+        "description": ""
+    },
+    "experienceComment": "Comment on your experience at Gcare",
+    "@experienceComment": {
+        "description": ""
+    },
+    "free": "Free",
+    "@free": {
+        "description": ""
+    },
+    "notChangeAppointment": "Schedule confirmed, cannot be changed.",
+    "@notChangeAppointment": {
+        "description": ""
+    },
+    "cancelAppointmentDone": "The appointment has been canceled, please make another appointment.",
+    "@cancelAppointmentDone": {
+        "description": ""
+    },
+    "cancelledAppoinntment": "Cancelled appointment.",
+    "@cancelledAppoinntment": {
+        "description": ""
+    },
+    "notCancelAppointment": "The confirmed appointment cannot be canceled",
+    "@notCancelAppointment": {
+        "description": ""
+    },
+    "enterReason": "Enter a reason for cancellation",
+    "@enterReason": {
+        "description": ""
+    },
+    "reasonNotEmpty": "Reason cannot be blank",
+    "@reasonNotEmpty": {
+        "description": ""
+    },
+    "reason": "reason",
+    "@reason": {
+        "description": ""
+    },
+    "appointment": "Appoinment",
+    "@appointment": {
+        "description": ""
+    },
+    "notPrescribed": "Not Prescribed",
+    "@notPrescribed": {
+        "description": ""
+    },
+    "paymentInfor": "Payment slip information",
+    "@paymentInfor": {
+        "description": ""
+    },
+    "dateOfVote": "The date of the vote",
+    "@dateOfVote": {
+        "description": ""
+    },
+    "payByCash": "Payment in cash",
+    "@payByCash": {
+        "description": ""
+    },
+    "noBloodInfor": "No blood group information yet",
+    "@noBloodInfor": {
+        "description": ""
+    },
+    "undefined": "Undefined",
+    "@undefined": {
+        "description": ""
+    },
+    "beat": "Beat/Minute",
+    "@beat": {
+        "description": ""
+    },
+    "degree": "degree",
+    "@degree": {
+        "description": ""
+    },
+    "examinationResults": "Examination results",
+    "@examinationResults": {
+        "description": ""
+    },
+    "noPrescription": "No prescription imaging data available.",
+    "@noPrescription": {
+        "description": ""
+    },
+    "noDoctor": "There is no doctor",
+    "@noDoctor": {
+        "description": ""
+    },
+    "noExaminationResults": "There are no data on examination results.",
+    "@noExaminationResults": {
+        "description": ""
+    },
+    "noExamImage": "No resulting image data.",
+    "@noExamImage": {
+        "description": ""
+    },
+    "noNote": "No notes.",
+    "@noNote": {
+        "description": ""
+    },
+    "cost": "Cost",
+    "@cost": {
+        "description": ""
+    },
+    "serviceExamination": "Service Examination",
+    "@serviceExamination": {
+        "description": ""
+    },
+    "examinationBhyt": "BHYT Examination",
+    "@examinationBhyt": {
+        "description": ""
+    },
+    "examinationHistory": "Medical examination history",
+    "@examinationHistory": {
+        "description": ""
+    },
+    "noMedicalHistory": "No medical history",
+    "@noMedicalHistory": {
+        "description": ""
+    },
+    "voteSuccessful": "Successful evaluation.",
+    "@voteSuccessful": {
+        "description": ""
+    },
+    "notVote": "The due date for evaluation is overdue, the evaluation deadline is calculated after the examination until the 5th day from the examination.",
+    "@notVote": {
+        "description": ""
+    },
+    "enterVote": "New comments and reviews need to be entered to save information.",
+    "@enterVote": {
+        "description": ""
+    },
+    "save": "Save",
+    "@save": {
+        "description": ""
+    },
+    "historyDetail": "Historical details",
+    "@historyDetail": {
+        "description": ""
+    },
+    "viewDetail": "See details",
+    "@viewDetail": {
+        "description": ""
+    },
+    "diagnosisAndExam": "Diagnosis and examination results",
+    "@diagnosisAndExam": {
+        "description": ""
+    },
+    "examinationResultsDetail": "See detailed medical examination results",
+    "@examinationResultsDetail": {
+        "description": ""
+    },
+    "giveStar": "Give stars to rate",
+    "@giveStar": {
+        "description": ""
+    },
+    "commentDoctor": "Comments about doctors",
+    "@commentDoctor": {
+        "description": ""
+    },
+    "enterContent": "Enter content ",
+    "@enterContent": {
+        "description": ""
+    },
+    "healthInChart": "Health",
+    "@healthInChart": {
+        "description": ""
+    },
+    "healthChart": "Health chart",
+    "@healthChart": {
+        "description": ""
+    },
+    "bloodSugar": "Đường huyết",
+    "@bloodSugar": {
+        "description": ""
+    },
+    "like": "Like",
+    "@like": {
+        "description": ""
+    },
+    "gcarePharmacy": "Gcare pharmacy",
+    "@gcarePharmacy": {
+        "description": ""
+    },
+    "findMedicine": "Find medicine",
+    "@findMedicine": {
+        "description": ""
+    },
+    "addedCart": "Added to cart",
+    "@addedCart": {
+        "description": ""
+    },
+    "cartRemove": "Removed from cart",
+    "@cartRemove": {
+        "description": ""
+    },
+    "fillAll": "Please fill out the form",
+    "@fillAll": {
+        "description": ""
+    },
+    "loginExpired": "You don't have access or your login has expired!",
+    "@loginExpired": {
+        "description": ""
+    },
+    "reLogin": "Re-login",
+    "@reLogin": {
+        "description": ""
+    },
+    "internetCheck": "Check the network connection again!",
+    "@internetCheck": {
+        "description": ""
+    },
+    "applicationError": "Application error!",
+    "@applicationError": {
+        "description": ""
+    },
+    "doctorInfor": "Information about doctors",
+    "@doctorInfor": {
+        "description": ""
+    },
+    "noInfor": "No information",
+    "@noInfor": {
+        "description": ""
+    },
+    "allPackage": "All examination packages",
+    "@allPackage": {
+        "description": ""
+    },
+    "selectBranch": "Please select a branch to make an appointment",
+    "@selectBranch": {
+        "description": ""
+    },
+    "homePackage": "List of home examination packages",
+    "@homePackage": {
+        "description": ""
+    },
+    "backHome": "Back to home screen",
+    "@backHome": {
+        "description": ""
+    }
+}

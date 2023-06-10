@@ -1,0 +1,1070 @@
+{
+    "login": "Đăng nhập",
+    "@login": {
+        "description": "The conventional newborn programmer greeting"
+    },
+    "phoneNumber": "Số điện thoại",
+    "@phoneNumber": {
+        "description": "Login screen"
+    },
+    "phoneNumberError": "Vui lòng nhập đúng số điện thoại",
+    "@phoneNumberError": {
+        "description": "Login screen"
+    },
+    "password": "Mật khẩu",
+    "@password": {
+        "description": "Login screen"
+    },
+    "passwordError": "Vui lòng nhập đúng mật khẩu",
+    "@passwordError": {
+        "description": "Login screen"
+    },
+    "forgotPass": "Quên mật khẩu",
+    "@forgotPass": {
+        "description": "Login screen"
+    },
+    "noAccount": "Chưa có tài khoản",
+    "@noAccount": {
+        "description": "Login screen"
+    },
+    "registerNow": "Đăng kí ngay",
+    "@registerNow": {
+        "description": "Login screen"
+    },
+    "hasAccount": "Bạn đã có tài khoản",
+    "@hasAccount": {
+        "description": "Login screen"
+    },
+    "loginNow": "Đăng nhập ngay",
+    "@loginNow": {
+        "description": "Login screen"
+    },
+    "callHotline": "Gọi hotline hỗ trợ",
+    "@callHotline": {
+        "description": "Login screen"
+    },
+    "recoveryPass": "Khôi phục mật khẩu",
+    "@recoveryPass": {
+        "description": "Forgot pass screen"
+    },
+    "descript_recoveryPass": "Vui lòng nhập lại Số điện thoại mà bạn đã đăng ký tài khoản",
+    "@descript_recoveryPass": {
+        "description": "Forgot pass screen"
+    },
+    "isPhoneEmpty": "Số điện thoại không được bỏ trống",
+    "@isPhoneEmpty": {
+        "description": "Forgot pass screen"
+    },
+    "register": "Đăng ký tài khoản",
+    "@register": {
+        "description": "Register screen"
+    },
+    "reEnterPass": "Nhập lại mật khẩu",
+    "@reEnterPass": {
+        "description": "Register screen"
+    },
+    "term": "Tôi hiểu và đồng ý các điều khoản",
+    "@term": {
+        "description": "Register screen"
+    },
+    "passValidate1": "Mật khẩu phải gồm ít nhất 8 ký tự (gồm chữ hoa, chữ thường, số và ký tự đặc biệt).",
+    "@passValidate1": {
+        "description": "Register screen"
+    },
+    "passValidate2": "Mật khẩu 8 - 15 ký tự có 1 ký tự in hoa",
+    "@passValidate2": {
+        "description": "Register screen"
+    },
+    "skip": "Bỏ qua",
+    "@skip": {
+        "description": "Start screen"
+    },
+    "titleStart1": "XÉT NGHIỆM TẠI NHÀ",
+    "@titleStart1": {
+        "description": "Start screen"
+    },
+    "titleStart2": "ĐẶT LỊCH KHÁM TRỰC TUYẾN",
+    "@titleStart2": {
+        "description": "Start screen"
+    },
+    "titleStart3": "TƯ VẤN SỨC KHỎE",
+    "@titleStart3": {
+        "description": "Start screen"
+    },
+    "descriptStart1": "Mẫu xét nghiệm được lấy tại nhà. Cung cấp kết quả nhanh chóng và chính xác.",
+    "@descriptStart1": {
+        "description": "Start screen"
+    },
+    "descriptStart2": "Đặt hẹn và chọn phòng khám hoàn toàn chủ động. Không mất thời gian chờ đợi.",
+    "@descriptStart2": {
+        "description": "Start screen"
+    },
+    "descriptStart3": "Trò chuyện và nhận tư vấn về sức khỏe từ đội ngũ bác sĩ uy tín, giàu kinh nghiệm.",
+    "@descriptStart3": {
+        "description": "Start screen"
+    },
+    "enterOTP": "Nhập OTP",
+    "@enterOTP": {
+        "description": "OTP screen"
+    },
+    "sentOTP": "Nhập mã xác nhận được gửi tới",
+    "@sentOTP": {
+        "description": "OTP screen"
+    },
+    "getOTP": "Nhận lại OTP sau ",
+    "@getOTP": {
+        "description": "OTP screen"
+    },
+    "tryOTPAgain": "Chưa nhận được mã? Vui lòng thử lại sau",
+    "@tryOTPAgain": {
+        "description": "OTP screen"
+    },
+    "seconds": " giây",
+    "@seconds": {
+        "description": "OTP screen"
+    },
+    "notReceiveOTP": "Tôi không nhận được mã",
+    "@notReceiveOTP": {
+        "description": "OTP screen"
+    },
+    "resendOTP": "Gửi lại OTP",
+    "@resendOTP": {
+        "description": "OTP screen"
+    },
+    "resendOTPSnackbar": "Sai mã OTP, vui lòng nhập lại!",
+    "@resendOTPSnackbar": {
+        "description": "OTP screen"
+    },
+    "sendOTPSuccessfulSnackbar": "Mã xác thực đã được gửi thành công",
+    "@sendOTPSuccessfulSnackbar": {
+        "description": "OTP screen"
+    },
+    "sendOTPErrorSnackbar": "Lỗi không gửi được mã xác thực",
+    "@sendOTPErrorSnackbar": {
+        "description": "OTP screen"
+    },
+    "expiredOTPSnackbar": "Mã xác thực không đúng hoặc hết hạn",
+    "@expiredOTPSnackbar": {
+        "description": "OTP screen"
+    },
+    "search": "Tìm kiếm dịch vụ",
+    "@search": {
+        "description": "Home screen"
+    },
+    "yourAppointment": "Lịch hẹn của bạn",
+    "@yourAppointment": {
+        "description": "Home screen"
+    },
+    "notAppointment": "Hiện tại bạn chưa có lịch hẹn nào với bác sĩ",
+    "@notAppointment": {
+        "description": "Home screen"
+    },
+    "featuredExamination": "Gói khám nổi bật",
+    "@featuredExamination": {
+        "description": "Home screen"
+    },
+    "viewAll": "Xem tất cả",
+    "@viewAll": {
+        "description": "Home screen"
+    },
+    "advise": "TƯ VẤN",
+    "@advise": {
+        "description": "Home screen"
+    },
+    "examinationHome": "KHÁM",
+    "@examinationHome": {
+        "description": "Home screen"
+    },
+    "service": "DỊCH VỤ",
+    "@service": {
+        "description": "Home screen"
+    },
+    "medicine": "THUỐC",
+    "@medicine": {
+        "description": "Home screen"
+    },
+    "youKnow": "Bạn có biết ?",
+    "@youKnow": {
+        "description": "Home screen"
+    },
+    "test": "Xét nghiệm",
+    "@test": {
+        "description": "Product screen"
+    },
+    "examinationInfo": "Thông tin khám",
+    "@examinationInfo": {
+        "description": "Home screen"
+    },
+    "promotion": "Thông tin khuyến mãi",
+    "@promotion": {
+        "description": "Home screen"
+    },
+    "price": "Giá dịch vụ",
+    "@price": {
+        "description": "Product screen"
+    },
+    "male": "Nam",
+    "@male": {
+        "description": "Product screen"
+    },
+    "female": "Nữ",
+    "@female": {
+        "description": "Product screen"
+    },
+    "from": "Từ",
+    "@from": {
+        "description": "Product screen"
+    },
+    "both": "Cả nam và nữ",
+    "@both": {
+        "description": "Product screen"
+    },
+    "yearOld": "Tuổi",
+    "@yearOld": {
+        "description": "Product screen"
+    },
+    "examination": "Hạng mục khám",
+    "@examination": {
+        "description": "Product screen"
+    },
+    "yearUp": "tuổi trở lên",
+    "@yearUp": {
+        "description": "Product screen"
+    },
+    "down": "tuổi trở xuống",
+    "@down": {
+        "description": "Product screen"
+    },
+    "allAge": "Mọi lứa tuổi",
+    "@allAge": {
+        "description": "Product screen"
+    },
+    "book": "Đặt lịch hẹn",
+    "@book": {
+        "description": "Product screen"
+    },
+    "servicePrice": "Giá dịch vụ",
+    "@servicePrice": {
+        "description": "Product detail screen"
+    },
+    "executionBranch": "Chi nhánh thực hiện",
+    "@executionBranch": {
+        "description": "Product detail screen"
+    },
+    "whyShouldOrder": "Tại sao nên đặt gói khám và xét nghiệm này?",
+    "@whyShouldOrder": {
+        "description": "Product detail screen"
+    },
+    "procedures": "Quy trình và xét nghiệm?",
+    "@procedures": {
+        "description": "Product detail screen"
+    },
+    "testCategory": "Hạng mục xét nghiệm",
+    "@testCategory": {
+        "description": "Product detail screen"
+    },
+    "otherCategory": "Hạng mục khác",
+    "@otherCategory": {
+        "description": "Product detail screen"
+    },
+    "examinationCategory": "Hạng mục khám",
+    "@examinationCategory": {
+        "description": "Product detail screen"
+    },
+    "noteThings": "Những điều cần lưu ý",
+    "@noteThings": {
+        "description": "Product detail screen"
+    },
+    "forTest": "Đối với xét nghiệm",
+    "@forTest": {
+        "description": "Product detail screen"
+    },
+    "scheduleAppointment": "Lịch hẹn",
+    "@scheduleAppointment": {
+        "description": ""
+    },
+    "waitingConfirm": "Chờ xác nhận",
+    "@waitingConfirm": {
+        "description": ""
+    },
+    "confirmed": "Đã xác nhận",
+    "@confirmed": {
+        "description": ""
+    },
+    "cancel": "Đã hủy",
+    "@cancel": {
+        "description": ""
+    },
+    "patient": "Bệnh nhân",
+    "@patient": {
+        "description": ""
+    },
+    "doctor": "Bác sĩ",
+    "@doctor": {
+        "description": ""
+    },
+    "examTime": "Giờ khám",
+    "@examTime": {
+        "description": ""
+    },
+    "viewSchedule": "Xem lịch hẹn",
+    "@viewSchedule": {
+        "description": ""
+    },
+    "selectDate": "Chọn ngày",
+    "@selectDate": {
+        "description": ""
+    },
+    "selectDoctor": "CHỌN BÁC SĨ",
+    "@selectDoctor": {
+        "description": ""
+    },
+    "selectTime": "Chọn khung giờ",
+    "@selectTime": {
+        "description": ""
+    },
+    "updateInformation": "Cập nhật thông tin cá nhân",
+    "@updateInformation": {
+        "description": ""
+    },
+    "name": "Họ và Tên",
+    "@name": {
+        "description": ""
+    },
+    "address": "Địa chỉ",
+    "@address": {
+        "description": ""
+    },
+    "specificAddress": "Địa chỉ cụ thể",
+    "@specificAddress": {
+        "description": ""
+    },
+    "province": "Tỉnh / Thành phố",
+    "@province": {
+        "description": ""
+    },
+    "district": "Quận / Huyện",
+    "@district": {
+        "description": ""
+    },
+    "ward": "Phường / Xã",
+    "@ward": {
+        "description": ""
+    },
+    "dob": "Ngày tháng năm sinh",
+    "@dob": {
+        "description": ""
+    },
+    "gender": "Giới tính",
+    "@gender": {
+        "description": ""
+    },
+    "update": "Cập nhật",
+    "@update": {
+        "description": ""
+    },
+    "addProfile": "Thêm hồ sơ",
+    "@addProfile": {
+        "description": ""
+    },
+    "selectRelationship": "Chọn mối quan hệ",
+    "@selectRelationship": {
+        "description": ""
+    },
+    "symptoms": "Tiểu sử bệnh - Triệu chứng",
+    "@symptoms": {
+        "description": ""
+    },
+    "uploadRelatedImages": "Upload hình ảnh liên quan",
+    "@uploadRelatedImages": {
+        "description": ""
+    },
+    "patientInformation": "Thông tin bệnh nhân",
+    "@patientInformation": {
+        "description": ""
+    },
+    "checkOtherInformation": "Kiểm tra các thông tin khác",
+    "@checkOtherInformation": {
+        "description": ""
+    },
+    "confirmInformation": "Xác nhận thông tin",
+    "@confirmInformation": {
+        "description": ""
+    },
+    "paymentSlip": "Phiếu thanh toán",
+    "@paymentSlip": {
+        "description": ""
+    },
+    "information": "Thông tin",
+    "@information": {
+        "description": ""
+    },
+    "vote": "lập phiếu",
+    "@vote": {
+        "description": ""
+    },
+    "payment": "Thanh toán",
+    "@payment": {
+        "description": ""
+    },
+    "temporary": "Tạm tính",
+    "@temporary": {
+        "description": ""
+    },
+    "totalPayment": "Tổng thanh toán",
+    "@totalPayment": {
+        "description": ""
+    },
+    "paymentMethod": "Phương thức thanh toán",
+    "@paymentMethod": {
+        "description": ""
+    },
+    "confirm": "Xác nhận",
+    "@confirm": {
+        "description": ""
+    },
+    "paymentCode": "Mã hóa đơn thanh toán của bạn là: ",
+    "@paymentCode": {
+        "description": ""
+    },
+    "thank": "Cảm ơn bạn đã sử dụng dịch vụ của Gcare",
+    "@thank": {
+        "description": ""
+    },
+    "returnSchedule": "Quay về lịch đặt khám",
+    "@returnSchedule": {
+        "description": ""
+    },
+    "dateOfExamination": "Ngày khám",
+    "@dateOfExamination": {
+        "description": ""
+    },
+    "department": "Phòng ban",
+    "@department": {
+        "description": ""
+    },
+    "serviceList": "Danh sách dịch vụ",
+    "@serviceList": {
+        "description": ""
+    },
+    "popularServiceList": "Danh sách tất cả gói khám nổi bật",
+    "@popularServiceList": {
+        "description": ""
+    },
+    "changeAppointment": "Thay đổi lịch hẹn",
+    "@changeAppointment": {
+        "description": ""
+    },
+    "cancelAppointment": "Hủy lịch hẹn",
+    "@cancelAppointment": {
+        "description": ""
+    },
+    "profile": "HỒ SƠ",
+    "@profile": {
+        "description": ""
+    },
+    "relatedDetail": "CHI TIẾT NGƯỜI THÂN",
+    "@relatedDetail": {
+        "description": ""
+    },
+    "totalCostExamination": "Tổng chi phí khám",
+    "@totalCostExamination": {
+        "description": ""
+    },
+    "relationship": "Mối quan hệ: ",
+    "@relationship": {
+        "description": ""
+    },
+    "profileID": "Mã hồ sơ: ",
+    "@profileID": {
+        "description": ""
+    },
+    "health": "Sức khỏe",
+    "@health": {
+        "description": ""
+    },
+    "enterOldPass": "Nhập mật khẩu cũ",
+    "@enterOldPass": {
+        "description": ""
+    },
+    "enterNewPass": "Nhập mật khẩu mới",
+    "@enterNewPass": {
+        "description": ""
+    },
+    "reEnterNewPass": "Nhập lại mật khẩu mới",
+    "@reEnterNewPass": {
+        "description": ""
+    },
+    "hello": "Xin chào",
+    "@hello": {
+        "description": ""
+    },
+    "examHistory": "Lịch sử khám",
+    "@examHistory": {
+        "description": ""
+    },
+    "examType": "Loại khám",
+    "@examType": {
+        "description": ""
+    },
+    "costExamination": "Chi phí khám",
+    "@costExamination": {
+        "description": ""
+    },
+    "code": "Mã",
+    "@code": {
+        "description": ""
+    },
+    "bodyIndex": "Chỉ số cơ thể",
+    "@bodyIndex": {
+        "description": ""
+    },
+    "diagnosis": "Chẩn đoán, kết quả thăm khám",
+    "@diagnosis": {
+        "description": ""
+    },
+    "rateComment": "Đánh giá và bình luận",
+    "@rateComment": {
+        "description": ""
+    },
+    "submitComment": "Gửi bình luận",
+    "@submitComment": {
+        "description": ""
+    },
+    "scan": "Quét",
+    "@scan": {
+        "description": ""
+    },
+    "result": "Kết quả",
+    "@result": {
+        "description": ""
+    },
+    "note": "Ghi chú",
+    "@note": {
+        "description": ""
+    },
+    "viewPrescription": "Xem toa thuốc",
+    "@viewPrescription": {
+        "description": ""
+    },
+    "resultImage": "Hình ảnh kết quả",
+    "@resultImage": {
+        "description": ""
+    },
+    "height": "Chiều cao",
+    "@height": {
+        "description": ""
+    },
+    "weight": "Cân nặng",
+    "@weight": {
+        "description": ""
+    },
+    "bloodType": "Nhóm máu",
+    "@bloodType": {
+        "description": ""
+    },
+    "vitalityIndex": "Chỉ số sinh hiệu",
+    "@vitalityIndex": {
+        "description": ""
+    },
+    "heartRate": "Nhịp tim",
+    "@heartRate": {
+        "description": ""
+    },
+    "bloodPressure": "Huyết áp",
+    "@bloodPressure": {
+        "description": ""
+    },
+    "bodyTemperature": "Thân nhiệt",
+    "@bodyTemperature": {
+        "description": ""
+    },
+    "breathe": "Nhịp thở",
+    "@breathe": {
+        "description": ""
+    },
+    "general": "Chung",
+    "@general": {
+        "description": ""
+    },
+    "noticeDetails": "Chi tiết thông báo",
+    "@noticeDetails": {
+        "description": ""
+    },
+    "confirmBooking": "Gcare xác nhận mã đặt lịch khám dịch vụ ",
+    "@confirmBooking": {
+        "description": ""
+    },
+    "changePassword": "Đổi mật khẩu",
+    "@changePassword": {
+        "description": ""
+    },
+    "newLowwer": "mới",
+    "@newLowwer": {
+        "description": ""
+    },
+    "favoritePosts": "Bài viết yêu thích",
+    "@favoritePosts": {
+        "description": ""
+    },
+    "myOrders": "Đơn hàng của tôi",
+    "@myOrders": {
+        "description": ""
+    },
+    "totalAmount": "Tổng tiền",
+    "@totalAmount": {
+        "description": ""
+    },
+    "personalInformation": "Thông tin cá nhân",
+    "@personalInformation": {
+        "description": ""
+    },
+    "favoriteNew": "Tin yêu thích",
+    "@favoriteNew": {
+        "description": ""
+    },
+    "listRecords": "Danh sách hồ sơ",
+    "@listRecords": {
+        "description": ""
+    },
+    "logout": "Đăng xuất",
+    "@logout": {
+        "description": ""
+    },
+    "myInfo": "Thông tin của tôi",
+    "@myInfo": {
+        "description": ""
+    },
+    "mine": "của tôi",
+    "@mine": {
+        "description": ""
+    },
+    "newsUpper": "TIN TỨC GCARE",
+    "@newsUpper": {
+        "description": ""
+    },
+    "newsLowwer": "Tin tức",
+    "@newsLowwer": {
+        "description": ""
+    },
+    "promotionService": "Dịch vụ / Khuyến mãi",
+    "@promotionService": {
+        "description": ""
+    },
+    "relatedArticles": "Bài viết liên quan",
+    "@relatedArticles": {
+        "description": ""
+    },
+    "pharmacy": "Nhà thuốc",
+    "@pharmacy": {
+        "description": ""
+    },
+    "findDrug": "Tìm thuốc",
+    "@findDrug": {
+        "description": ""
+    },
+    "findTheDrug": "Tìm loại thuốc",
+    "@findTheDrug": {
+        "description": ""
+    },
+    "pickToBuy": "Chọn mua",
+    "@pickToBuy": {
+        "description": ""
+    },
+    "description": "Mô tả",
+    "@description": {
+        "description": ""
+    },
+    "drugName": "Tên thuốc ",
+    "@drugName": {
+        "description": ""
+    },
+    "cart": "Giỏ hàng",
+    "@cart": {
+        "description": ""
+    },
+    "addressForReceiving": "Địa chỉ nhận thuốc",
+    "@addressForReceiving": {
+        "description": ""
+    },
+    "contactPhone": "Điện thoại liên lạc",
+    "@contactPhone": {
+        "description": ""
+    },
+    "done": "Hoàn tất",
+    "@done": {
+        "description": ""
+    },
+    "orderSuccessful": "Đặt hàng thành công",
+    "@orderSuccessful": {
+        "description": ""
+    },
+    "viewAppointment": "Xem lịch hẹn",
+    "@viewAppointment": {
+        "description": ""
+    },
+    "notData": "Không có dữ liệu",
+    "@notData": {
+        "description": ""
+    },
+    "notEnter": "Chưa nhập ",
+    "@notEnter": {
+        "description": ""
+    },
+    "pleaseEnter": "Vui lòng nhập ",
+    "@pleaseEnter": {
+        "description": ""
+    },
+    "invalid": " không hợp lệ",
+    "@invalid": {
+        "description": ""
+    },
+    "servicePackageInvalid": "Gói khám không phù hợp với bạn, mời bạn đặt gói khám khác",
+    "@servicePackageInvalid": {
+        "description": ""
+    },
+    "notEmpty": "không được bỏ trống",
+    "@notEmpty": {
+        "description": ""
+    },
+    "passDuplicate": "Mật khẩu mới không được trùng với mật khẩu hiện tại.",
+    "@passDuplicate": {
+        "description": ""
+    },
+    "notLikeNewPass": "Không trùng khớp với mật khẩu mới, vui lòng thử lại.",
+    "@notLikeNewPass": {
+        "description": ""
+    },
+    "notification": "Thông báo",
+    "@notification": {
+        "description": ""
+    },
+    "sureLogout": "Bạn có chắc chắn muốn đăng xuất?",
+    "@sureLogout": {
+        "description": ""
+    },
+    "accept": "Đồng ý",
+    "@accept": {
+        "description": ""
+    },
+    "close": "Đóng",
+    "@close": {
+        "description": ""
+    },
+    "timeUp": "Đã hết giờ làm việc trong hôm nay, quý khách vui lòng đặt vào ngày tiếp theo.",
+    "@timeUp": {
+        "description": ""
+    },
+    "specialist": "Chuyên khoa",
+    "@specialist": {
+        "description": ""
+    },
+    "center": "Trung tâm Gcare",
+    "@center": {
+        "description": ""
+    },
+    "notUpdate": "chưa cập nhật",
+    "@notUpdate": {
+        "description": ""
+    },
+    "mustUpdate": "Bạn cần phải cập nhật thông tin để có hồ sơ của chính bạn.",
+    "@mustUpdate": {
+        "description": ""
+    },
+    "createProfile": "Tạo thêm hồ sơ",
+    "@createProfile": {
+        "description": ""
+    },
+    "selectProfile": "Chọn hồ sơ",
+    "@selectProfile": {
+        "description": ""
+    },
+    "continues": "Tiếp tục",
+    "@continues": {
+        "description": ""
+    },
+    "checkOut": "Kiểm tra lại các thông tin khác",
+    "@checkOut": {
+        "description": ""
+    },
+    "delete": "Xoá",
+    "@delete": {
+        "description": ""
+    },
+    "deleteQuestion": "Bạn có muốn xoá không?",
+    "@deleteQuestion": {
+        "description": ""
+    },
+    "relativeName": "Tên người thân",
+    "@relativeName": {
+        "description": ""
+    },
+    "relativeNote": "Lưu ý: Cần nhập 2 ký tự trở lên để tìm kiếm.",
+    "@relativeNote": {
+        "description": ""
+    },
+    "yourQr": "QR code của tôi",
+    "@yourQr": {
+        "description": ""
+    },
+    "allowCamera": "Cho phép Gcare sử dụng máy ảnh",
+    "@allowCamera": {
+        "description": ""
+    },
+    "explainAlowCamera": "Ứng dụng này cần quyền truy cập camera để chụp ảnh và tải ảnh hồ sơ khám bệnh người dùng lên",
+    "@explainAlowCamera": {
+        "description": ""
+    },
+    "refuse": "Từ chối",
+    "@refuse": {
+        "description": ""
+    },
+    "allow": "Cho phép",
+    "@allow": {
+        "description": ""
+    },
+    "allowMemory": "Cho phép Gcare sử dụng bộ nhớ điện thoại",
+    "@allowMemory": {
+        "description": ""
+    },
+    "explainAllowCamera": "Khi đó bạn có thể chia sẻ thư viện ảnh, cũng như tải ảnh hồ sơ khám bệnh người dùng lên",
+    "@explainAllowCamera": {
+        "description": ""
+    },
+    "experienceComment": "Bình luận về trải nghiệm khám của bạn tại Gcare",
+    "@experienceComment": {
+        "description": ""
+    },
+    "free": "Miễn phí",
+    "@free": {
+        "description": ""
+    },
+    "notChangeAppointment": "Lịch khám đã được xác nhận, không thể thay đổi.",
+    "@notChangeAppointment": {
+        "description": ""
+    },
+    "cancelAppointmentDone": "Lịch khám đã huỷ, mời bạn đặt lịch khác.",
+    "@cancelAppointmentDone": {
+        "description": ""
+    },
+    "cancelledAppoinntment": "Lịch khám đã huỷ.",
+    "@cancelledAppoinntment": {
+        "description": ""
+    },
+    "notCancelAppointment": "Lịch khám đã xác nhận không thể huỷ",
+    "@notCancelAppointment": {
+        "description": ""
+    },
+    "enterReason": "Nhập lý do huỷ",
+    "@enterReason": {
+        "description": ""
+    },
+    "reasonNotEmpty": "Lý do không được bỏ trống",
+    "@reasonNotEmpty": {
+        "description": ""
+    },
+    "reason": "Lý do",
+    "@reason": {
+        "description": ""
+    },
+    "appointment": "Lịch hẹn",
+    "@appointment": {
+        "description": ""
+    },
+    "notPrescribed": "Không bác sĩ chỉ định",
+    "@notPrescribed": {
+        "description": ""
+    },
+    "paymentInfor": "Thông tin phiếu thanh toán",
+    "@paymentInfor": {
+        "description": ""
+    },
+    "dateOfVote": "Ngày lập phiếu",
+    "@dateOfVote": {
+        "description": ""
+    },
+    "payByCash": "Thanh toán bằng tiền mặt",
+    "@payByCash": {
+        "description": ""
+    },
+    "noBloodInfor": "Chưa có thông tin nhóm máu",
+    "@noBloodInfor": {
+        "description": ""
+    },
+    "undefined": "Chưa xác định",
+    "@undefined": {
+        "description": ""
+    },
+    "beat": "Nhịp/Phút",
+    "@beat": {
+        "description": ""
+    },
+    "degree": "độ",
+    "@degree": {
+        "description": ""
+    },
+    "examinationResults": "Kết quả khám bệnh",
+    "@examinationResults": {
+        "description": ""
+    },
+    "noPrescription": "Không có dữ liệu hình ảnh toa thuốc",
+    "@noPrescription": {
+        "description": ""
+    },
+    "noDoctor": "Không có bác sĩ",
+    "@noDoctor": {
+        "description": ""
+    },
+    "noExaminationResults": "Không có dữ liệu kết quả khám.",
+    "@noExaminationResults": {
+        "description": ""
+    },
+    "noExamImage": "Không có dữ liệu hình ảnh kết quả.",
+    "@noExamImage": {
+        "description": ""
+    },
+    "noNote": "Không có ghi chú.",
+    "@noNote": {
+        "description": ""
+    },
+    "cost": "Chi phí",
+    "@cost": {
+        "description": ""
+    },
+    "serviceExamination": "Khám dịch vụ",
+    "@serviceExamination": {
+        "description": ""
+    },
+    "examinationBhyt": "Khám BHYT",
+    "@examinationBhyt": {
+        "description": ""
+    },
+    "examinationHistory": "Lịch sử khám bệnh",
+    "@examinationHistory": {
+        "description": ""
+    },
+    "noMedicalHistory": "Chưa có lịch sử khám bệnh",
+    "@noMedicalHistory": {
+        "description": ""
+    },
+    "voteSuccessful": "Đánh giá thành công.",
+    "@voteSuccessful": {
+        "description": ""
+    },
+    "notVote": "Đã quá hạn để được đánh giá, hạn đánh giá được tính sau khi khám cho đến ngày thứ 5 kể từ khi khám.",
+    "@notVote": {
+        "description": ""
+    },
+    "enterVote": "Cần nhập bình luận và đánh giá mới để lưu thông tin.",
+    "@enterVote": {
+        "description": ""
+    },
+    "save": "Lưu",
+    "@save": {
+        "description": ""
+    },
+    "historyDetail": "Chi tiết lịch sử",
+    "@historyDetail": {
+        "description": ""
+    },
+    "viewDetail": "Xem chi tiết",
+    "@viewDetail": {
+        "description": ""
+    },
+    "diagnosisAndExam": "Chẩn đoán, kết quả thăm khám",
+    "@diagnosisAndExam": {
+        "description": ""
+    },
+    "examinationResultsDetail": "Xem chi tiết kết quả khám bệnh",
+    "@examinationResultsDetail": {
+        "description": ""
+    },
+    "giveStar": "Cho sao để đánh giá",
+    "@giveStar": {
+        "description": ""
+    },
+    "commentDoctor": "Bình luận về bác sĩ",
+    "@commentDoctor": {
+        "description": ""
+    },
+    "enterContent": "Nhập nội dung",
+    "@enterContent": {
+        "description": ""
+    },
+    "healthInChart": "Sức khỏe",
+    "@healthInChart": {
+        "description": ""
+    },
+    "healthChart": "Biểu đồ sức khỏe",
+    "@healthChart": {
+        "description": ""
+    },
+    "bloodSugar": "Đường huyết",
+    "@bloodSugar": {
+        "description": ""
+    },
+    "like": "Thích",
+    "@like": {
+        "description": ""
+    },
+    "gcarePharmacy": "Nhà thuốc Gcare",
+    "@gcarePharmacy": {
+        "description": ""
+    },
+    "findMedicine": "Tìm loại thuốc",
+    "@findMedicine": {
+        "description": ""
+    },
+    "addedCart": "Đã thêm vào giỏ hàng",
+    "@addedCart": {
+        "description": ""
+    },
+    "cartRemove": "Đã xóa khỏi giỏ hàng",
+    "@cartRemove": {
+        "description": ""
+    },
+    "fillAll": "Vui lòng điền đầy đủ thông tin",
+    "@fillAll": {
+        "description": ""
+    },
+    "loginExpired": "Bạn không có quyền truy cập hoặc đăng nhập đã hết hạn!",
+    "@loginExpired": {
+        "description": ""
+    },
+    "reLogin": "Đăng nhập lại",
+    "@reLogin": {
+        "description": ""
+    },
+    "internetCheck": "Kiểm tra lại kết nối mạng!",
+    "@internetCheck": {
+        "description": ""
+    },
+    "applicationError": "Lỗi ứng dụng!",
+    "@applicationError": {
+        "description": ""
+    },
+    "doctorInfor": "Thông tin về bác sĩ",
+    "@doctorInfor": {
+        "description": ""
+    },
+    "noInfor": "Chưa có thông tin",
+    "@noInfor": {
+        "description": ""
+    },
+    "allPackage": "Tất cả gói khám",
+    "@allPackage": {
+        "description": ""
+    },
+    "selectBranch": "Vui lòng chọn chi nhánh để đặt lịch hẹn",
+    "@selectBranch": {
+        "description": ""
+    },
+    "homePackage": "Danh sách gói khám tại nhà",
+    "@homePackage": {
+        "description": ""
+    },
+    "backHome": "Quay về trang chủ",
+    "@backHome": {
+        "description": ""
+    }
+}
